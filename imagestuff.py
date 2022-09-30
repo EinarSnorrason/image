@@ -1,3 +1,11 @@
+
+"""
+!!!
+KUN FOR INSPIRASJON!
+!!!
+"""
+
+
 import numpy as np
 from PIL import Image
 
